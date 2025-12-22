@@ -50,11 +50,21 @@
       <div align="center">
         <img
           height="200em"
-          src="https://github-readme-stats-sand-mu-14.vercel.app/api/top-langs/?username=Maria-Eduardas2&theme=tokyonight&layout=donut&hide=css,HTML,ShaderLab,HLSL,scss,json,tml,yacc,C,hack,CMake,Batchfile,Swift,ASP,ASP.NET,dockerfile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=R"
+          src="https://github-readme-stats-sand-mu-14.vercel.app/api/top-langs/?username=Maria-Eduardas2&theme=jolly&layout=donut&hide=css,HTML,ShaderLab,HLSL,scss,json,tml,yacc,C,hack,CMake,Batchfile,Swift,ASP,ASP.NET,dockerfile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=R"
         />
       </div>
     </td>
   </tr>
 </table>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maria-Eduardas2/Maria-Eduardas2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maria-Eduardas2/Maria-Eduardas2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Maria-Eduardas2/Maria-Eduardas2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
 
