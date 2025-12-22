@@ -29,7 +29,10 @@
   ## My tech stack
   
  [![My Skills](https://skillicons.dev/icons?i=cs,c,postgres,javascript,figma,godot,react&theme=dark)](https://skillicons.dev)
- 
+
+ ## Contact
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeduardasm2501@gmail.com)
+
    </td>
   </tr>
 </table>
