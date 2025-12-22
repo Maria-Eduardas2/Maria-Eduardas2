@@ -1,16 +1,11 @@
-## Hi there 👋
+    <div className="h-[50px] flex justify-between items-center p-1 border-b border-black/15 bg-[#345DBD]">
+        <h1 className="text-[#FFFDF4] italic font-newake text-[2em]">SENAI</h1>
 
-<!--
-**Maria-Eduardas2/Maria-Eduardas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        <div className="flex items-center gap-4 mr-4 text-[#FFFDF4]">
+          <h2 className="text-[1.2em] font-titillium font-bold">Bem vindo, Nome</h2>
+          <FaRegUserCircle
+            className="text-[2em] cursor-pointer hover:text-[#6EBBCE] transition-colors"
+            onClick={() => setModalAberto(true)}
+          />
+        </div>
+      </div>
