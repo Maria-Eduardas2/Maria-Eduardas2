@@ -1,2 +1,4 @@
-![Top Bar](download.gif)
+<p align="center">
+  <img src="download.gif" alt="Header">
+</p>
 
